@@ -1,0 +1,4 @@
+*{padding:0px;margin:0px;}
+label{width:100px;height:40px;border:1px solid #cecece;display:block;margin:10px;line-height:40px;position:relative;}
+input[type=checkbox]{height:41px;width:41px;position:absolute;left:0px;}
+label b{padding:17px;color:#fff;font-size:18px;}
